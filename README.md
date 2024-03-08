@@ -5,7 +5,7 @@
 
 ## Welcome to the Ramadan Mubark (Custom Shapes) repository! 🎉
 
-This project showcases a stylish and feature-richbuilt using Jetpack Compose, the modern toolkit for building native Android UI:
+This project showcases a stylish and feature-rich built using Jetpack Compose, the modern toolkit for building native Android UI:
 
 - Custom Shape (Clipping Path)
 - Subtract Paths
